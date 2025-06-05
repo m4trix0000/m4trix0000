@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Thiago, tenho 35 anos, moro no interior de São Paulo - Brazil, trabalhando com servidores linux/windows e desenvolvendo scripts em PHP desde 2007.</p>
+<p align="left">Meu nome é Thiago, tenho 37 anos, moro no interior de São Paulo - Brazil, trabalhando com servidores linux/windows e desenvolvendo scripts em PHP desde 2007.</p>
 
 ###
 
